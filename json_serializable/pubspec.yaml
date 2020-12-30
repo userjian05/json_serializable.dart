@@ -5,7 +5,7 @@ description: >-
   Dart classes.
 repository: https://github.com/google/json_serializable.dart
 environment:
-  sdk: '>=2.11.0 <3.0.0'
+  sdk: '>=2.11.0 <3.1.0'
 
 dependencies:
   analyzer: '>=0.40.6 <0.42.0'
